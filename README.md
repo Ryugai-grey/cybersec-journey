@@ -2,7 +2,7 @@
 
 **Student:** SuyashB  
 **Goal:** Penetration Tester / Security Analyst  
-**Training:** TryHackMe Premium · Kali Linux · Acmegrade  
+**Training:** TryHackMe Premium · Kali Linux · Acmegrade · HackerX
 
 ## 📂 What's in this repo
 
