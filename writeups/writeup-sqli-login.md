@@ -1,6 +1,6 @@
 # Penetration Test Report — SQL Injection on Vulnerable Login Page
 
-**Author:** Ash  
+**Author:** Suyash alias Ryugai  
 **Date:** 2026-06-27  
 **Target:** Locally hosted Flask web application (`http://192.168.56.1:5000`)  
 **Type:** Black-box Web Application Penetration Test  
